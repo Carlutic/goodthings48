@@ -12,5 +12,61 @@
         "image": "Covers/gt0261.png",
         "pmx": "Chisa PMX by MikelX3D.pmx",
         "base": "https://carlutic.github.io/goodthings48/"
+    },
+    {
+        "id": 130263,
+        "name": "gt0263",
+        "displayName": "阿慈谷日富美",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0263",
+        "image": "Covers/gt0263.png",
+        "pmx": "阿慈谷日富美/Hifumi_Mark2Set_1.0/Hifumi_Tracksuit_Mark2_1.0.pmx",
+        "base": "https://carlutic.github.io/goodthings48/"
+    },
+    {
+        "id": 130264,
+        "name": "gt0264",
+        "displayName": "Lynae VRM,Vroid,PMX by MikelX3D",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0264",
+        "image": "Covers/gt0264.png",
+        "pmx": "Lynae PMX by MikelX3D.pmx",
+        "base": "https://carlutic.github.io/goodthings48/"
+    },
+    {
+        "id": 130265,
+        "name": "gt0265",
+        "displayName": "守岸人",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0265",
+        "image": "Covers/gt0265.png",
+        "pmx": "守岸人/Shorekeeper PMX/守岸兔 1.07.pmx",
+        "base": "https://carlutic.github.io/goodthings48/"
+    },
+    {
+        "id": 130267,
+        "name": "gt0267",
+        "displayName": "云璃1.3",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0267",
+        "image": "Covers/gt0267.png",
+        "pmx": "雲璃1.3 - 副本/雲璃1.3_平面化.pmx",
+        "base": "https://carlutic.github.io/goodthings48/"
     }
 ]
