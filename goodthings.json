@@ -1,0 +1,16 @@
+[
+    {
+        "id": 130261,
+        "name": "gt0261",
+        "displayName": "Chisa VRM,Vroid,PMX by MikelX3D",
+        "weaponType": "",
+        "element": "GoodThings",
+        "gender": "Female",
+        "region": "",
+        "rarity": 5,
+        "directory": "chars/gt0261",
+        "image": "Covers/gt0261.png",
+        "pmx": "Chisa PMX by MikelX3D.pmx",
+        "base": "https://carlutic.github.io/goodthings48/"
+    }
+]
